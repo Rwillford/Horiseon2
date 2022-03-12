@@ -29,3 +29,4 @@ In no specific order here is a list of everything I changed in the code.
 4. Added alt tags to all images, described the picutres but not logo ones. It would seem weird in a screen reader to say gear grinding into money.
 5. Fixed line 75 img end tag from ></img> to />
 6. After fixing the classes I went through css and consolidated the repetitive and renamed them to there corresponding class. 
+7. Changes div class=header to header tag and changes css to match. Also changed out div to nav for ul portion and css to match. 
